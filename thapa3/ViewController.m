@@ -19,7 +19,7 @@
     
     NSLog(@"okk 2222");
     NSLog(@"okk 111");
-    NSLog(@"hiii 4444");
+    NSLog(@"hiii 333333");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
