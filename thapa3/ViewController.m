@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"okk 2222");
+    NSLog(@"okk 111");
+    NSLog(@"hiii");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
