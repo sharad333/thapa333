@@ -18,10 +18,13 @@
     [super viewDidLoad];
     
 
+
     NSLog(@"okk 22223333");
     NSLog(@"okk 11133333");
     NSLog(@"hiii 333");
     NSLog(@"okk");
+
+    NSLog(@"okk 222233333");
     NSLog(@"okk 111");
     NSLog(@"hiii 3333333334434243244233233333ß");
 
