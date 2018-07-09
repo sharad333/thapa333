@@ -26,6 +26,7 @@
 		61198C2F2046FA8900D661CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61198C322046FA8900D661CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61198C342046FA8900D661CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84696EE520F39C00001ECD0F /* gomedijuly18.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = gomedijuly18.mobileprovision; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 		61198C222046FA8900D661CF /* thapa3 */ = {
 			isa = PBXGroup;
 			children = (
+				84696EE520F39C00001ECD0F /* gomedijuly18.mobileprovision */,
 				61198C262046FA8900D661CF /* AppDelegate.h */,
 				61198C272046FA8900D661CF /* AppDelegate.m */,
 				61198C292046FA8900D661CF /* ViewController.h */,
@@ -279,7 +281,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = T7NZ937HQM;
 				INFOPLIST_FILE = thapa3/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gomedii;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -296,7 +298,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = T7NZ937HQM;
 				INFOPLIST_FILE = thapa3/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gomedii;
 				PRODUCT_NAME = "$(TARGET_NAME)";
