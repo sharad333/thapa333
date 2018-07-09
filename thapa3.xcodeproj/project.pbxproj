@@ -283,8 +283,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gomedii;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3c17168b-2b85-4332-bab4-f2e77dc5d29b";
-				PROVISIONING_PROFILE_SPECIFIER = gomedii2018;
+				PROVISIONING_PROFILE = "622934f6-8c19-41d2-bd3c-9897efeab929";
+				PROVISIONING_PROFILE_SPECIFIER = gomedijuly18;
 			};
 			name = Debug;
 		};
@@ -300,8 +300,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gomedii;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3c17168b-2b85-4332-bab4-f2e77dc5d29b";
-				PROVISIONING_PROFILE_SPECIFIER = gomedii2018;
+				PROVISIONING_PROFILE = "622934f6-8c19-41d2-bd3c-9897efeab929";
+				PROVISIONING_PROFILE_SPECIFIER = gomedijuly18;
 			};
 			name = Release;
 		};
